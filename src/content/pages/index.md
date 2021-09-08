@@ -1,12 +1,12 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Mike & Deb
+tagline: Old folks hiking
+featuredImage: /assets/img_3913.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
 
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Mike Brown and Deb Sidelinger have a plan to walk the Te Araroa trial - the length of New Zealand - starting in September 2023. This is their journey.
