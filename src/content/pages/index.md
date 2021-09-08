@@ -1,7 +1,7 @@
 ---
 template: index-page
 slug: /
-title: Mike & Deb
+title: Walking Down the Line
 tagline: Old folks hiking
 featuredImage: /assets/img_3913.jpg
 cta:
