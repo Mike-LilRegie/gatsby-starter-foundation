@@ -4,6 +4,7 @@ title: Beginning the long hard road...
 slug: beginning-the-long-hard-road
 date: 2021-09-08 18:32
 description: hiking, tramping
+featuredImage: /assets/img_2348.jpg
 ---
 A blog post here about getting to fitness....
 
