@@ -9,4 +9,4 @@ cta:
   ctaLink: /about
 ---
 
-Mike Brown and Deb Sidelinger have a plan to walk the Te Araroa trial - the length of New Zealand - starting in September 2023. This is their journey.
+Mike and Deb have a plan to walk the Te Araroa trial - the length of New Zealand - starting in September 2023. This is their journey.
