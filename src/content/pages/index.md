@@ -8,5 +8,4 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
-
-Mike and Deb have a plan to walk the Te Araroa trail - the length of New Zealand - starting in September 2023. This is their journey.
+We're Mike and Deb, ordinary people with a crazy plan to walk the length of New Zealand along Te Araroa trail starting in September 2023. Join us on this epic journey of getting to that starting point.
