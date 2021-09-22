@@ -18,10 +18,8 @@ Ok, this seems pretty easy so far. Let's embed a video.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hY1l8zRBn0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![](/assets/img_3890.jpg)
+![](/assets/taranaki-falls.jpeg)
 
 This content by walkingdowntheline
-
-
 
 ![](/assets/rsz_img_3912.jpg)
