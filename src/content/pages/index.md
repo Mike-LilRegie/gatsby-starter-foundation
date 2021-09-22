@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Walking Down the Line
 tagline: Old folks hiking
-featuredImage: /assets/img_3913.jpg
+featuredImage: /assets/selfie.jpeg
 cta:
   ctaText: Know more
   ctaLink: /about
