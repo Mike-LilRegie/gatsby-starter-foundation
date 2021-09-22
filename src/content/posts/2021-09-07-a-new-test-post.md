@@ -23,3 +23,7 @@ Ok, this seems pretty easy so far. Let's embed a video.
 This content by walkingdowntheline
 
 ![](/assets/rsz_img_3912.jpg)
+
+A new line
+
+![](/assets/img_3890-copy.jpg)
