@@ -1,7 +1,7 @@
 ---
 template: about-page
 slug: /about
-title: About Foundation
+title: About
 ---
 In early 2021, our son was working in Whanganui and we planned to visit him. We had only ever passed through Whanganui, and so Deb brought it up on Google maps to see what interesting places we could visit while there. And there it was - this intriguing dotted line, leading through town to the beach, and along the coast. As she looked at it, she realised that from this path you would be able to see a section of coastline that you'd never ever get to see from a car. 
 
