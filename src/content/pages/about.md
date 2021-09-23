@@ -7,7 +7,7 @@ In early 2021, our son was working in Whanganui and we planned to visit him. We 
 
 ![](/assets/te-araroa-whanganui.jpg)
 
-Te Araroa trail. She'd heard of it before, but it was always something other people did. Fit people. Young people. Hikers. 
+That dotted line turned out to be Te Araroa - a 3000km trail from the top of New Zealand to the very bottom. She'd heard of it before, but it was always something other people did. Fit people. Young people. Hikers. 
 
 Middle-aged, out-of-shape women getting close to 60 don't walk Te Araroa. Men with dodgy knees and old memories of tramping don't walk Te Araroa. Couples who should be preparing for their retirement don't walk Te Araroa.
 
