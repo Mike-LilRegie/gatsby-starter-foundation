@@ -7,7 +7,7 @@ In early 2021, our son was working in Whanganui and we planned to visit him. We 
 
 Te Araroa trail. She'd heard of it before, but it was always something other people did. Fit people. Young people. Hikers. 
 
-Middle-aged, out-of-shape women getting close to 60 didn't walk Te Araroa. Men with dodgy knees and old memories of tramping didn't walk Te Araroa. Couples who should be preparing for their retirement didn't walk Te Araroa.
+Middle-aged, out-of-shape women getting close to 60 don't walk Te Araroa. Men with dodgy knees and old memories of tramping don't walk Te Araroa. Couples who should be preparing for their retirement don't walk Te Araroa.
 
 A couple days later, Deb told Mike about seeing the trail on the map and said, "Why not us?"
 
