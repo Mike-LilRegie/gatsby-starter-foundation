@@ -4,7 +4,7 @@ title: A sponge pillow? A sponge pillow!
 slug: /spongepillow
 date: 2021-10-07 13:46
 description: Using a sponge as a pillow
-featuredImage: /assets/img_3964.jpg
+featuredImage: /assets/img_3964-edit.jpeg
 ---
 We're getting old and (some) comfort is going to be important. As is sleep. As much sleep as possible. No pillow is not an option. The days of bundling clothes into a stuff sack are over, and, like, we'll be so ultralight there'll be no clothes to spare! So a pillow is needed.
 
