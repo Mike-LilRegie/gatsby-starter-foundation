@@ -8,4 +8,4 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
-We're Mike and Deb, ordinary people with a crazy plan to walk the length of New Zealand along Te Araroa trail starting in September 2023. Join us on this epic journey of getting to that starting point.
+We're Mike and Deb, ordinary people with a crazy plan to walk the length of New Zealand along Te Araroa trail starting ... sometime! Join us on this epic journey of getting to that starting point.
