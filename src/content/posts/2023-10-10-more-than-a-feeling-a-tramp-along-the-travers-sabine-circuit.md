@@ -29,6 +29,7 @@ All trips should start with being met at the airport in a gold Mercedes.
 The drive from Nelson to St Arnaud of course included a stop for a pie along the way. Steve has a bach there so we dropped our gear, went for a little walk to the lake and then to the Alpine Lodge for a couple of pre-trip beers. The forecast was wet and cold for Monday, but clearing after that.
 
 # Day 1 - to Lakehead hut
+
 Packs were packed. And compared. Steve had the heaviest pack and the most food. Mark had the oldest pack - his Father's wooden H-framed canvas pack. No hip-belts to relieve the loads on these. I had the lightest, most colourful and most expensive pack. A big breakfast at the Alpine Lodge and we were ready to leave the top Mt Robert carpark just after 9am. The skies were dark and lowering. The first rumble of thunder happened about 20 minutes in. It started raining soon after that.
 
 ![Mark in the rain](/assets/img_4520-2.jpg "Mark regrets some of his life choices")
@@ -124,9 +125,7 @@ There's a steady climb from Lake Rotoroa, then a long sidle around to Speargrass
 
 ![Nelson Lakes bush](/assets/img_4590.jpg "Nelson Lakes bush")
 
-For 4 1/2 days of the tramp I'd had an earworm. I've been listening a lot to a wonderful album by this country singer - don't worry, she's quite obscure, you won't have heard of her - and snippets of the songs from the album had been in my head. Constantly. Every step. When I tried to sleep at night. On waking up. It's a sign of a great album but also, gimme me a break! I was walking along on the final day, tired, sore, head full of these incessant songs, and then suddenly... like the sun breaking through the clouds; like manna from heaven; like the hallelujah fucking chorus... the song "More Than A Feeling" by Boston, came into my head and swept everything else away. This song is a classic 70's banger and officially the best song in the world.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t4QK8RxCAwo?si=4hHm-__EAhD2Ug-B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+For 4 1/2 days of the tramp I'd had an earworm. I've been listening a lot to a wonderful album by this country singer - don't worry, she's quite obscure, you won't have heard of her - and snippets of the songs from the album had been in my head. Constantly. Every step. When I tried to sleep at night. On waking up. It's a sign of a great album but also, gimme me a break! I was walking along on the final day, tired, sore, head full of these incessant songs, and then suddenly... like the sun breaking through the clouds; like manna from heaven; like the hallelujah fucking chorus... the song "[More Than A Feeling](https://www.youtube.com/watch?v=t4QK8RxCAwo)" by Boston, came into my head and swept everything else away. This song is a classic 70's banger and officially the best song in the world.
 
 Speargrass hut in 5 hours for a lunch stop. Then the final 3 hour walk out. Halfway along this, Mark finally snapped as Steve called for a rest stop. "I'll see you down the track", said Mark, striding off. Spoiler: we didn't. We'd been passed earlier by a young French guy who left Speargrass hut a little after us. I think someone's pride was hurt. The French guy never stood a chance. Apparently he told Mark, who was waiting at the carpark, "You walk very fast! I couldn't keep up."
 
